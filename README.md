@@ -1,6 +1,6 @@
 ---
 title: "Predicting Treatment Completion for Substance Abuse"
-author: "Shady & Mohammad"
+author: "Shady & Mohammad & Elaad"
 date: "2024-07-02"
 output:
   pdf_document: default
